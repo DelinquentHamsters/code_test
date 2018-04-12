@@ -1,4 +1,4 @@
-def hello():
-    print("Hello")
+import sys
+import scikit-learn
+print("Hello")
 
-hello()
