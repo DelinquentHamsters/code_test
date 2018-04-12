@@ -1,4 +1,4 @@
 import sys
-import scikit-learn
+import numpy
+import sklearn
 print("Hello")
-
